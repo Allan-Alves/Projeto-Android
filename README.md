@@ -1,5 +1,5 @@
 # Projeto Site de Notícias
-O projeto consiste em um site responsivo de notícias, com apenas uma página de notícia sobre a origem e criação do mascote Bug-droid, do Android. Projeto desenvolvido no curso de HTML5 e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com), aplicando os conhecimentos estudados e praticados ao longo do curso.     
+O projeto consiste em um site responsivo de notícias, com apenas uma página de notícias sobre a origem e criação do mascote Bug-droid, do Android. Projeto desenvolvido no curso de HTML5 e CSS3 do [Curso em Vídeo](https://www.cursoemvideo.com), aplicando os conhecimentos estudados e praticados ao longo do curso.     
 
 ## Funcionalidades
 
