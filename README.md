@@ -29,7 +29,9 @@ O projeto consiste em um site responsivo de notícias, com apenas uma página de
 
 __Mobile - iPhone 14 Pro Max - 430 x 932__
 
-![Mobie](images/image1) ![Mobile](images/image2)
+![Mobile](images/image1)
+
+![Mobile](images/image2)
 
 __Tablet - iPad Mini - 768 x 1024__
 
